@@ -1849,6 +1849,42 @@
   // "browse.title.page": "Browsing by {{ field }} {{ value }}",
   "browse.title.page": "Examinando por {{ field }} {{ value }}",
 
+  // "bulk-import.abort-on-error": "Abort on first error",
+  "bulk-import.abort-on-error": "Detener ante el primer error",
+
+  // "bulk-import.back": "Back",
+  "bulk-import.back": "Atrás",
+
+  // "bulk-import.breadcrumbs": "Bulk Import from Excel",
+  "bulk-import.breadcrumbs": "Importación masiva desde Excel",
+
+  // "bulk-import.collection-name": "Collection",
+  "bulk-import.collection-name": "Colección",
+
+  // "bulk-import.error": "An error occurred while creating the import process",
+  "bulk-import.error": "Se produjo un error al crear el proceso de importación",
+
+  // "bulk-import.error.no-file": "Please select a file to import.",
+  "bulk-import.error.no-file": "Por favor, seleccione un archivo para importar.",
+
+  // "bulk-import.file": "Source file",
+  "bulk-import.file": "Archivo de origen",
+
+  // "bulk-import.header": "Bulk Import from Excel",
+  "bulk-import.header": "Importación masiva desde Excel",
+
+  // "bulk-import.processing": "Processing...",
+  "bulk-import.processing": "Procesando...",
+
+  // "bulk-import.success": "The import process was successfully created",
+  "bulk-import.success": "El proceso de importación se creó con éxito",
+
+  // "bulk-import.submit": "Start import",
+  "bulk-import.submit": "Iniciar importación",
+
+  // "bulk-import.title": "Bulk Import from Excel",
+  "bulk-import.title": "Importación masiva desde Excel",
+
   // "search.browse.item-back": "Back to Results",
   "search.browse.item-back": "Volver a los resultados",
 
@@ -2619,6 +2655,9 @@
   // "context-menu.actions.audit-item.btn": "Audit",
   // TODO New key - Add a translation
   "context-menu.actions.audit-item.btn": "Audit",
+
+  // "context-menu.actions.bulk-import.btn": "Import from Excel",
+  "context-menu.actions.bulk-import.btn": "Importar desde Excel",
 
   // "context-menu.actions.subscription.frequency.required": "Please select a frequency",
   // TODO New key - Add a translation
@@ -12263,6 +12302,81 @@
   // "bitstream.related.deleted": "deleted",
   // TODO New key - Add a translation
   "bitstream.related.deleted": "deleted",
+
+  // "cc-license.commercial.label": "Allow commercial uses of your work?",
+  "cc-license.commercial.label": "¿Permitir usos comerciales de su obra?",
+
+  // "cc-license.commercial.hint": "Choose whether others may use your work for commercial purposes.",
+  "cc-license.commercial.hint": "Indique si otras personas pueden usar su obra con propósitos comerciales.",
+
+  // "cc-license.commercial.option.yes.label": "Yes",
+  "cc-license.commercial.option.yes.label": "Sí",
+
+  // "cc-license.commercial.option.yes.hint": "Visitors may copy, distribute, display and perform your Submission for any purpose, including commercial purposes.",
+  "cc-license.commercial.option.yes.hint": "Otras personas pueden copiar, distribuir, exhibir y ejecutar públicamente su envío para cualquier propósito, incluidos los comerciales.",
+
+  // "cc-license.commercial.option.no.label": "No",
+  "cc-license.commercial.option.no.label": "No",
+
+  // "cc-license.commercial.option.no.hint": "Visitors may copy, distribute, display and perform your Submission, but only for non-commercial purposes.",
+  "cc-license.commercial.option.no.hint": "Otras personas pueden copiar, distribuir, exhibir y ejecutar públicamente su envío, pero solo con propósitos no comerciales.",
+
+  // "cc-license.derivatives.label": "Allow modifications of your work?",
+  "cc-license.derivatives.label": "¿Permitir modificaciones de su obra?",
+
+  // "cc-license.derivatives.hint": "Choose whether others may create derivative works based on your Submission.",
+  "cc-license.derivatives.hint": "Indique si otras personas pueden crear obras derivadas a partir de su envío.",
+
+  // "cc-license.derivatives.option.yes.label": "Yes",
+  "cc-license.derivatives.option.yes.label": "Sí",
+
+  // "cc-license.derivatives.option.yes.hint": "Visitors may copy, distribute, display, perform and modify your Submission in any way.",
+  "cc-license.derivatives.option.yes.hint": "Otras personas pueden copiar, distribuir, exhibir, ejecutar públicamente y modificar su envío de cualquier forma.",
+
+  // "cc-license.derivatives.option.sharealike.label": "ShareAlike",
+  "cc-license.derivatives.option.sharealike.label": "CompartirIgual",
+
+  // "cc-license.derivatives.option.sharealike.hint": "Visitors are permitted to copy, display, perform and modify your Submission, as long as they distribute the modified version on similar use terms.",
+  "cc-license.derivatives.option.sharealike.hint": "Otras personas pueden copiar, exhibir, ejecutar públicamente y modificar su envío, siempre que distribuyan la versión modificada bajo condiciones de uso similares.",
+
+  // "cc-license.derivatives.option.no.label": "No",
+  "cc-license.derivatives.option.no.label": "No",
+
+  // "cc-license.derivatives.option.no.hint": "Visitors are only permitted to copy and distribute unaltered versions of your Submission.",
+  "cc-license.derivatives.option.no.hint": "Otras personas solo pueden copiar y distribuir versiones sin modificar de su envío.",
+
+  // "cc-license.jurisdiction.label": "Jurisdiction",
+  "cc-license.jurisdiction.label": "Jurisdicción",
+
+  // "cc-license.jurisdiction.hint": "Select the legal jurisdiction for your Creative Commons license, or leave as the default international license.",
+  "cc-license.jurisdiction.hint": "Seleccione la jurisdicción legal de su licencia Creative Commons, o deje la licencia internacional predeterminada.",
+
+  // "cc-license.jurisdiction.option.unported.label": "Generic (Unported)",
+  "cc-license.jurisdiction.option.unported.label": "Genérica (Unported)",
+
+  // "cc-license.sampling.label": "Which Sampling license would you like to use?",
+  "cc-license.sampling.label": "¿Qué licencia Sampling desea usar?",
+
+  // "cc-license.sampling.hint": "Choose which kind of sampling, remixing or mash-up of your work you allow.",
+  "cc-license.sampling.hint": "Indique qué tipo de muestreo, remezcla o mash-up de su obra permite.",
+
+  // "cc-license.sampling.option.sampling.label": "Sampling",
+  "cc-license.sampling.option.sampling.label": "Sampling",
+
+  // "cc-license.sampling.option.sampling.hint": "Visitors may sample, remix or transform parts of your work for any purpose other than advertising, but may not copy or distribute the entire work.",
+  "cc-license.sampling.option.sampling.hint": "Otras personas pueden muestrear, remezclar o transformar partes de su obra para cualquier propósito distinto de la publicidad, pero no pueden copiar ni distribuir la obra completa.",
+
+  // "cc-license.sampling.option.samplingplus.label": "Sampling Plus",
+  "cc-license.sampling.option.samplingplus.label": "Sampling Plus",
+
+  // "cc-license.sampling.option.samplingplus.hint": "Visitors may sample, remix or transform parts of your work for any purpose other than advertising, and may also copy and distribute the entire work for non-commercial purposes.",
+  "cc-license.sampling.option.samplingplus.hint": "Otras personas pueden muestrear, remezclar o transformar partes de su obra para cualquier propósito distinto de la publicidad, y además copiar y distribuir la obra completa con propósitos no comerciales.",
+
+  // "cc-license.sampling.option.ncsamplingplus.label": "NonCommercial Sampling Plus",
+  "cc-license.sampling.option.ncsamplingplus.label": "Sampling Plus NoComercial",
+
+  // "cc-license.sampling.option.ncsamplingplus.hint": "Visitors may sample, remix or transform parts of your work, and copy and distribute the entire work, but only for non-commercial purposes.",
+  "cc-license.sampling.option.ncsamplingplus.hint": "Otras personas pueden muestrear, remezclar o transformar partes de su obra, y copiar y distribuir la obra completa, pero solo con propósitos no comerciales.",
 
 
 }
